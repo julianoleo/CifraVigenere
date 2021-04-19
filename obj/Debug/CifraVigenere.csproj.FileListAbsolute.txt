@@ -1,0 +1,10 @@
+C:\Estudos\c#\CifraVigenere\CifraVigenere\bin\Debug\CifraVigenere.exe.config
+C:\Estudos\c#\CifraVigenere\CifraVigenere\bin\Debug\CifraVigenere.exe
+C:\Estudos\c#\CifraVigenere\CifraVigenere\bin\Debug\CifraVigenere.pdb
+C:\Estudos\c#\CifraVigenere\CifraVigenere\obj\Debug\CifraVigenere.csprojAssemblyReference.cache
+C:\Estudos\c#\CifraVigenere\CifraVigenere\obj\Debug\CifraVigenere.Properties.Resources.resources
+C:\Estudos\c#\CifraVigenere\CifraVigenere\obj\Debug\CifraVigenere.csproj.GenerateResource.cache
+C:\Estudos\c#\CifraVigenere\CifraVigenere\obj\Debug\CifraVigenere.csproj.CoreCompileInputs.cache
+C:\Estudos\c#\CifraVigenere\CifraVigenere\obj\Debug\CifraVigenere.exe
+C:\Estudos\c#\CifraVigenere\CifraVigenere\obj\Debug\CifraVigenere.pdb
+C:\Estudos\c#\CifraVigenere\CifraVigenere\obj\Debug\CifraVigenere.Form_CifraVigenere.resources
